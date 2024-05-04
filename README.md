@@ -1,4 +1,4 @@
-<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/davidamui/">IT Professional</a>☺</h1>
+<h1>Hi, I'm (still editing this) David, an <a href="https://www.linkedin.com/in/davidamui/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
