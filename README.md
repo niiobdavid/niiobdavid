@@ -19,4 +19,4 @@
 
 [twitter]: https://twitter.com/niiobdavid
 [instagram]: https://www.instagram.com/itz_dave_yh/
-[linkedin]: https://www.linkedin.com/in/davidamui/
+[linkedin]: https://www.linkedin.com/in/niiobdavid/
