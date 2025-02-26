@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/niiobdavid/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/niiobdavid/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating Our First Resource within Azure](https://github.com/niiobdavid/get-started.md)
+  - [Creating Our First Resource within Azure](https://github.com/niiobdavid/1st-azure-resource)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/niiobdavid/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/niiobdavid/azure-network-protocols)
 
