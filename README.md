@@ -1,4 +1,4 @@
-<h1>Hi, I'm (still editing this) David, an <a href="https://www.linkedin.com/in/davidamui/">IT Professional</a>☺</h1>
+<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/davidamui/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -10,7 +10,7 @@
   - [Creating Our First Resource within Azure](https://github.com/niiobdavid/1st-azure-resource)
   - [Create & Connect to Azure VM with Remote Desktop](https://github.com/niiobdavid/azure-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/niiobdavid/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/niiobdavid/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/niiobdavid/network-traffic-monitoring/)
 
 <h2>🤳Connect with me:</h2>
 
