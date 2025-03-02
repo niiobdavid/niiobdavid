@@ -11,6 +11,15 @@
   - [Create & Connect to Azure VM with Remote Desktop](https://github.com/niiobdavid/azure-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/niiobdavid/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/niiobdavid/network-traffic-monitoring/)
+ 
+- <b>AWS</b>
+  - [Introduction to AWS IAM](https://youtu.be/Dm6t4lPfWgU)
+  - [Build VPC and Launch a Web Server](https://youtu.be/z0AhHAEAeJc)
+  - [Introduction to Amazon EC2](https://youtu.be/DWPhe9vTJwA)
+  - [Working with EBS](https://youtu.be/4HY01SdbYXo)
+  - [Building a Database Server](https://youtu.be/EdmIYQOLvzo)
+  - [Scale & Load Balance your Architecture](https://youtu.be/4s-30LI4lbs)
+
 
 <h2>🤳Connect with me:</h2>
 
