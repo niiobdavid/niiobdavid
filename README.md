@@ -1,6 +1,9 @@
-<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/davidamui/">IT Professional</a>☺</h1>
+<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/davidamui/"> Jr. Cloud Engineer | DevOps | IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>DevOps</b>
+  - [Java Web App Deployment with AWS CI/CD](https://github.com/niiobdavid/nextwork-web-project)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/niiobdavid/osticket-prereqs)
