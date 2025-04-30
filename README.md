@@ -4,6 +4,13 @@
 
 - <b>DevOps</b>
   - [Java Web App Deployment with AWS CI/CD](https://github.com/niiobdavid/nextwork-web-project)
+  - [Set Up a Web App in the Cloud](https://github.com/niiobdavid/web-app-in-cloud)
+  - [Connect a GitHub Repo with AWS](https://github.com/niiobdavid/GitHub-Repo-x-AWS)
+  - [Continuous Integration with CodeBuild](https://github.com/niiobdavid/CI-x-codeBuild)
+  - [Deploy a Web App with CodeDeploy](https://github.com/niiobdavid/deploy-web-app-x-CodeDeploy)
+  - [Infrastructure as Code with CloudFormation](https://github.com/niiobdavid/IAAC-x-CloudFormation)
+  - [Build a CI/CD Pipeline with AWS](https://github.com/niiobdavid/CI-CD-Pipeline-x-AWS)
+  - [Secure Packages with CodeArtifact](https://github.com/niiobdavid/Secure-Packages-with-CodeArtifact)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/niiobdavid/osticket-prereqs)
