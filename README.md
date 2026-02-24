@@ -10,8 +10,8 @@ Feel free to explore my repositories to see the work I’ve done in strengthenin
 
 ## ⚠️ Vulnerability Management
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/niiobdavid/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/niiobdavid/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
