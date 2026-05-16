@@ -5,6 +5,7 @@ I also work extensively with Azure and AWS, continuously improving my skills in 
 
 Feel free to explore my repositories to see the work I’ve done in strengthening systems, automating workflows, and enhancing security operations. 🚀
 
+▶️You can also check out my [Youtube](https://www.youtube.com/@_niiobdavid/videos) channel for live builds and walkthroughs of many of the projects documented here on GitHub.
 
 <h2>👨‍💻 Projects:</h2>
 
