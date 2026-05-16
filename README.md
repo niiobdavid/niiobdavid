@@ -55,6 +55,7 @@ Feel free to explore my repositories to see the work I’ve done in strengthenin
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/niiobdavid
-[instagram]: https://www.instagram.com/itz_dave_yh/
+[youtube]: https://www.youtube.com/@_niiobdavid/
 [linkedin]: https://www.linkedin.com/in/niiobdavid/
+[instagram]: https://www.instagram.com/itz_dave_yh/
+[twitter]: https://twitter.com/niiobdavid
